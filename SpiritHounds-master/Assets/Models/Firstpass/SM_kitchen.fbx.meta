@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 86ecdd55d04a88e4e8f4195249e8b555
+timeCreated: 1455519771
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Agnocio_phone:polySurface1
+    100002: Agnocio_phone:polySurface2
+    100004: Agnocio_phone:polySurface3
+    100006: Agnocio_phone:polySurface4
+    100008: Dining_table_v01:Dining_table_v01:polySurface147
+    100010: Dining_table_v01:polySurface1
+    100012: Dining_table_v01:polySurface2
+    100014: group1
+    100016: group102
+    100018: group110
+    100020: group25
+    100022: group81
+    100024: pCube21
+    100026: pCube518
+    100028: pCube519
+    100030: pCube522
+    100032: pCube523
+    100034: pCube61
+    100036: polySurface1
+    100038: polySurface147
+    100040: polySurface723
+    100042: pSphere7
+    100044: //RootNode
+    400000: Agnocio_phone:polySurface1
+    400002: Agnocio_phone:polySurface2
+    400004: Agnocio_phone:polySurface3
+    400006: Agnocio_phone:polySurface4
+    400008: Dining_table_v01:Dining_table_v01:polySurface147
+    400010: Dining_table_v01:polySurface1
+    400012: Dining_table_v01:polySurface2
+    400014: group1
+    400016: group102
+    400018: group110
+    400020: group25
+    400022: group81
+    400024: pCube21
+    400026: pCube518
+    400028: pCube519
+    400030: pCube522
+    400032: pCube523
+    400034: pCube61
+    400036: polySurface1
+    400038: polySurface147
+    400040: polySurface723
+    400042: pSphere7
+    400044: //RootNode
+    2300000: Agnocio_phone:polySurface1
+    2300002: Agnocio_phone:polySurface2
+    2300004: Agnocio_phone:polySurface3
+    2300006: Agnocio_phone:polySurface4
+    2300008: Dining_table_v01:Dining_table_v01:polySurface147
+    2300010: Dining_table_v01:polySurface1
+    2300012: Dining_table_v01:polySurface2
+    2300014: pCube21
+    2300016: pCube518
+    2300018: pCube519
+    2300020: pCube522
+    2300022: pCube523
+    2300024: pCube61
+    2300026: polySurface1
+    2300028: polySurface147
+    2300030: polySurface723
+    2300032: pSphere7
+    3300000: Agnocio_phone:polySurface1
+    3300002: Agnocio_phone:polySurface2
+    3300004: Agnocio_phone:polySurface3
+    3300006: Agnocio_phone:polySurface4
+    3300008: Dining_table_v01:Dining_table_v01:polySurface147
+    3300010: Dining_table_v01:polySurface1
+    3300012: Dining_table_v01:polySurface2
+    3300014: pCube21
+    3300016: pCube518
+    3300018: pCube519
+    3300020: pCube522
+    3300022: pCube523
+    3300024: pCube61
+    3300026: polySurface1
+    3300028: polySurface147
+    3300030: polySurface723
+    3300032: pSphere7
+    4300000: pCube61
+    4300002: pCube523
+    4300004: polySurface1
+    4300006: Agnocio_phone:polySurface1
+    4300008: Agnocio_phone:polySurface2
+    4300010: Agnocio_phone:polySurface3
+    4300012: Agnocio_phone:polySurface4
+    4300014: Dining_table_v01:polySurface2
+    4300016: Dining_table_v01:polySurface1
+    4300018: Dining_table_v01:Dining_table_v01:polySurface147
+    4300020: polySurface723
+    4300022: polySurface147
+    4300024: pCube21
+    4300026: pSphere7
+    4300028: pCube518
+    4300030: pCube519
+    4300032: pCube522
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

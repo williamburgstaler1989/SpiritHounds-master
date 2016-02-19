@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 54fa44f11e5773c47a2b160a3307c897
+timeCreated: 1455519766
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Doorway8
+    100002: Fireplace:Fireplace:Fireplace:Fireplace:Doorway23
+    100004: Fireplace:Fireplace:Fireplace:Fireplace:Doorway8
+    100006: Fireplace:Fireplace:Fireplace:Fireplace:walls38
+    100008: Fireplace:wall_llong34
+    100010: group11
+    100012: group12
+    100014: group14
+    100016: group15
+    100018: group16
+    100020: pCube282
+    100022: polySurface115
+    100024: polySurface138
+    100026: polySurface787
+    100028: //RootNode
+    100030: wall_llong10
+    100032: wall_llong29
+    100034: wall_llong34
+    100036: walls10
+    100038: walls29
+    100040: walls36
+    100042: walls38
+    100044: walls4
+    100046: walls40
+    100048: walls41
+    100050: walls51
+    100052: walls78
+    100054: walls87
+    100056: walls91
+    100058: walls92
+    100060: Window11
+    100062: Window12
+    100064: Window7
+    400000: Doorway8
+    400002: Fireplace:Fireplace:Fireplace:Fireplace:Doorway23
+    400004: Fireplace:Fireplace:Fireplace:Fireplace:Doorway8
+    400006: Fireplace:Fireplace:Fireplace:Fireplace:walls38
+    400008: Fireplace:wall_llong34
+    400010: group11
+    400012: group12
+    400014: group14
+    400016: group15
+    400018: group16
+    400020: pCube282
+    400022: polySurface115
+    400024: polySurface138
+    400026: polySurface787
+    400028: //RootNode
+    400030: wall_llong10
+    400032: wall_llong29
+    400034: wall_llong34
+    400036: walls10
+    400038: walls29
+    400040: walls36
+    400042: walls38
+    400044: walls4
+    400046: walls40
+    400048: walls41
+    400050: walls51
+    400052: walls78
+    400054: walls87
+    400056: walls91
+    400058: walls92
+    400060: Window11
+    400062: Window12
+    400064: Window7
+    2300000: Doorway8
+    2300002: Fireplace:Fireplace:Fireplace:Fireplace:Doorway23
+    2300004: Fireplace:Fireplace:Fireplace:Fireplace:Doorway8
+    2300006: Fireplace:Fireplace:Fireplace:Fireplace:walls38
+    2300008: Fireplace:wall_llong34
+    2300010: pCube282
+    2300012: polySurface115
+    2300014: polySurface138
+    2300016: polySurface787
+    2300018: wall_llong10
+    2300020: wall_llong29
+    2300022: wall_llong34
+    2300024: walls10
+    2300026: walls29
+    2300028: walls36
+    2300030: walls38
+    2300032: walls4
+    2300034: walls40
+    2300036: walls41
+    2300038: walls51
+    2300040: walls78
+    2300042: walls87
+    2300044: walls92
+    2300046: Window11
+    2300048: Window12
+    2300050: Window7
+    3300000: Doorway8
+    3300002: Fireplace:Fireplace:Fireplace:Fireplace:Doorway23
+    3300004: Fireplace:Fireplace:Fireplace:Fireplace:Doorway8
+    3300006: Fireplace:Fireplace:Fireplace:Fireplace:walls38
+    3300008: Fireplace:wall_llong34
+    3300010: pCube282
+    3300012: polySurface115
+    3300014: polySurface138
+    3300016: polySurface787
+    3300018: wall_llong10
+    3300020: wall_llong29
+    3300022: wall_llong34
+    3300024: walls10
+    3300026: walls29
+    3300028: walls36
+    3300030: walls38
+    3300032: walls4
+    3300034: walls40
+    3300036: walls41
+    3300038: walls51
+    3300040: walls78
+    3300042: walls87
+    3300044: walls92
+    3300046: Window11
+    3300048: Window12
+    3300050: Window7
+    4300000: wall_llong10
+    4300002: wall_llong29
+    4300004: Window7
+    4300006: Window11
+    4300008: Window12
+    4300010: walls4
+    4300012: walls10
+    4300014: walls29
+    4300016: walls36
+    4300018: walls38
+    4300020: walls40
+    4300022: walls41
+    4300024: walls51
+    4300026: walls78
+    4300028: walls87
+    4300030: Fireplace:Fireplace:Fireplace:Fireplace:walls38
+    4300032: walls92
+    4300034: polySurface115
+    4300036: Doorway8
+    4300038: pCube282
+    4300040: polySurface138
+    4300042: Fireplace:wall_llong34
+    4300044: Fireplace:Fireplace:Fireplace:Fireplace:Doorway8
+    4300046: Fireplace:Fireplace:Fireplace:Fireplace:Doorway23
+    4300048: wall_llong34
+    4300050: polySurface787
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

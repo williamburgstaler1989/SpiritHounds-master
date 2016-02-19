@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: c8350e30f8369224bae243d23a2a2de4
+timeCreated: 1455519778
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bench_02:polySurface1
+    100002: Chair:polySurface1
+    100004: chandelier_high:polySurface1
+    100006: Dining_table_v01:Dining_table_v01:polySurface143
+    100008: Fireplace:Cealedwindow
+    100010: Fireplace:Fireplace:Fireplace:Fireplace:Tub
+    100012: Fireplace:Fireplace:Fireplace:polySurface8
+    100014: Fireplace:Fireplace:polySurface699
+    100016: Fireplace:polySurface1
+    100018: Fireplace:polySurface12
+    100020: Fireplace:polySurface13
+    100022: Fireplace:polySurface3
+    100024: Fireplace:polySurface695
+    100026: Fireplace:polySurface8
+    100028: group25
+    100030: group69
+    100032: group71
+    100034: group72
+    100036: group74
+    100038: group76
+    100040: group81
+    100042: group82
+    100044: pCylinder19
+    100046: pictureframe:polySurface1
+    100048: polySurface3
+    100050: polySurface689
+    100052: pots3:polySurface1
+    100054: //RootNode
+    100056: table03:polySurface1
+    100058: table_H:polySurface1
+    400000: bench_02:polySurface1
+    400002: Chair:polySurface1
+    400004: chandelier_high:polySurface1
+    400006: Dining_table_v01:Dining_table_v01:polySurface143
+    400008: Fireplace:Cealedwindow
+    400010: Fireplace:Fireplace:Fireplace:Fireplace:Tub
+    400012: Fireplace:Fireplace:Fireplace:polySurface8
+    400014: Fireplace:Fireplace:polySurface699
+    400016: Fireplace:polySurface1
+    400018: Fireplace:polySurface12
+    400020: Fireplace:polySurface13
+    400022: Fireplace:polySurface3
+    400024: Fireplace:polySurface695
+    400026: Fireplace:polySurface8
+    400028: group25
+    400030: group69
+    400032: group71
+    400034: group72
+    400036: group74
+    400038: group76
+    400040: group81
+    400042: group82
+    400044: pCylinder19
+    400046: pictureframe:polySurface1
+    400048: polySurface3
+    400050: polySurface689
+    400052: pots3:polySurface1
+    400054: //RootNode
+    400056: table03:polySurface1
+    400058: table_H:polySurface1
+    2300000: bench_02:polySurface1
+    2300002: Chair:polySurface1
+    2300004: chandelier_high:polySurface1
+    2300006: Dining_table_v01:Dining_table_v01:polySurface143
+    2300008: Fireplace:Cealedwindow
+    2300010: Fireplace:Fireplace:Fireplace:Fireplace:Tub
+    2300012: Fireplace:Fireplace:Fireplace:polySurface8
+    2300014: Fireplace:Fireplace:polySurface699
+    2300016: Fireplace:polySurface1
+    2300018: Fireplace:polySurface12
+    2300020: Fireplace:polySurface13
+    2300022: Fireplace:polySurface3
+    2300024: Fireplace:polySurface695
+    2300026: Fireplace:polySurface8
+    2300028: pCylinder19
+    2300030: pictureframe:polySurface1
+    2300032: polySurface3
+    2300034: polySurface689
+    2300036: table03:polySurface1
+    3300000: bench_02:polySurface1
+    3300002: Chair:polySurface1
+    3300004: chandelier_high:polySurface1
+    3300006: Dining_table_v01:Dining_table_v01:polySurface143
+    3300008: Fireplace:Cealedwindow
+    3300010: Fireplace:Fireplace:Fireplace:Fireplace:Tub
+    3300012: Fireplace:Fireplace:Fireplace:polySurface8
+    3300014: Fireplace:Fireplace:polySurface699
+    3300016: Fireplace:polySurface1
+    3300018: Fireplace:polySurface12
+    3300020: Fireplace:polySurface13
+    3300022: Fireplace:polySurface3
+    3300024: Fireplace:polySurface695
+    3300026: Fireplace:polySurface8
+    3300028: pCylinder19
+    3300030: pictureframe:polySurface1
+    3300032: polySurface3
+    3300034: polySurface689
+    3300036: table03:polySurface1
+    4300000: chandelier_high:polySurface1
+    4300002: polySurface689
+    4300004: Fireplace:polySurface1
+    4300006: Fireplace:polySurface3
+    4300008: polySurface3
+    4300010: Fireplace:Fireplace:Fireplace:polySurface8
+    4300012: Fireplace:polySurface8
+    4300014: table03:polySurface1
+    4300016: Fireplace:polySurface12
+    4300018: Fireplace:polySurface13
+    4300020: Fireplace:polySurface695
+    4300022: bench_02:polySurface1
+    4300024: Fireplace:Cealedwindow
+    4300026: Chair:polySurface1
+    4300028: Fireplace:Fireplace:polySurface699
+    4300030: pictureframe:polySurface1
+    4300032: Fireplace:Fireplace:Fireplace:Fireplace:Tub
+    4300034: pCylinder19
+    4300036: Dining_table_v01:Dining_table_v01:polySurface143
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

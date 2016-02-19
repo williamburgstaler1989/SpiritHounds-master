@@ -1,0 +1,53 @@
+[
+	{
+		"id":0,
+		"title": "Flashlight",
+		"stats":{
+		"power":0,
+		"defence":0
+		},
+		"description": "Illuminate your way",
+		"stackable": false,
+		"slug": "flash_light"
+		
+	},
+	
+	{
+		"id":1,
+		"title": "Weapon1",
+		"stats":{
+		"power":5,
+		"defence":0
+		},
+		"description": "Defend yourself with this mighty weapon1!",
+		"stackable": true,
+		"slug": "wepon_one"
+	
+	},
+	
+	{
+		"id":2,
+		"title": "Weapon2",
+		"stats":{
+		"power":10,
+		"defence":0
+		},
+		"description": "Defend yourself with this mighty weapon2!",
+		"stackable": true,
+		"slug": "wepon_two"
+	
+	},
+	{
+		"id":3,
+		"title": "Medallion",
+		"stats":{
+		"power":0,
+		"defence":20
+		},
+		"description": "Protect yourself from wandering spirits",
+		"stackable": false,
+		"slug": "medallion"
+	
+	}
+
+]

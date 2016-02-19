@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 8d3081bcb0fd755419781e61291b00af
+timeCreated: 1455519772
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dining_table_v01:Dining_table_v01:polySurface148
+    100002: Dining_table_v01:polySurface1
+    100004: Dining_table_v01:polySurface1 1
+    100006: Dining_table_v01:polySurface1 2
+    100008: Dining_table_v01:polySurface1 3
+    100010: Dining_table_v01:polySurface12
+    100012: Dining_table_v01:polySurface13
+    100014: Dining_table_v01:polySurface14
+    100016: Dining_table_v01:polySurface17
+    100018: Dining_table_v01:polySurface18
+    100020: Dining_table_v01:polySurface19
+    100022: Dining_table_v01:polySurface21
+    100024: Dining_table_v01:polySurface22
+    100026: Dining_table_v01:polySurface23
+    100028: Fireplace:Fireplace:Fireplace:Fireplace:polySurface1
+    100030: Fireplace:Fireplace:Fireplace:Fireplace:polySurface1 1
+    100032: Fireplace:Fireplace:Fireplace:Fireplace:polySurface102
+    100034: Fireplace:Fireplace:Fireplace:Fireplace:polySurface103
+    100036: Fireplace:Fireplace:Fireplace:Fireplace:polySurface113
+    100038: Fireplace:polySurface16
+    100040: Fireplace:polySurface17
+    100042: Fireplace:polySurface19
+    100044: Fireplace:polySurface20
+    100046: Fountian_high:polySurface1
+    100048: group11
+    100050: group12
+    100052: group23
+    100054: group39
+    100056: group69
+    100058: group72
+    100060: group73
+    100062: group90
+    100064: group98
+    100066: group99
+    100068: Hallway52
+    100070: Hallway53
+    100072: Hallway54
+    100074: leaves
+    100076: Leavs:polySurface1
+    100078: pCube532
+    100080: pCylinder58
+    100082: Pile_of_Crap:polySurface1
+    100084: Plant_v2:polySurface1
+    100086: polySurface1
+    100088: polySurface1 1
+    100090: polySurface1 2
+    100092: polySurface17
+    100094: polySurface690
+    100096: polySurface783
+    100098: polySurface784
+    100100: pots3:polySurface1
+    100102: //RootNode
+    100104: table_Bench:polySurface1
+    100106: Treim_floorbalcomy1
+    400000: Dining_table_v01:Dining_table_v01:polySurface148
+    400002: Dining_table_v01:polySurface1
+    400004: Dining_table_v01:polySurface1 1
+    400006: Dining_table_v01:polySurface1 2
+    400008: Dining_table_v01:polySurface1 3
+    400010: Dining_table_v01:polySurface12
+    400012: Dining_table_v01:polySurface13
+    400014: Dining_table_v01:polySurface14
+    400016: Dining_table_v01:polySurface17
+    400018: Dining_table_v01:polySurface18
+    400020: Dining_table_v01:polySurface19
+    400022: Dining_table_v01:polySurface21
+    400024: Dining_table_v01:polySurface22
+    400026: Dining_table_v01:polySurface23
+    400028: Fireplace:Fireplace:Fireplace:Fireplace:polySurface1
+    400030: Fireplace:Fireplace:Fireplace:Fireplace:polySurface1 1
+    400032: Fireplace:Fireplace:Fireplace:Fireplace:polySurface102
+    400034: Fireplace:Fireplace:Fireplace:Fireplace:polySurface103
+    400036: Fireplace:Fireplace:Fireplace:Fireplace:polySurface113
+    400038: Fireplace:polySurface16
+    400040: Fireplace:polySurface17
+    400042: Fireplace:polySurface19
+    400044: Fireplace:polySurface20
+    400046: Fountian_high:polySurface1
+    400048: group11
+    400050: group12
+    400052: group23
+    400054: group39
+    400056: group69
+    400058: group72
+    400060: group73
+    400062: group90
+    400064: group98
+    400066: group99
+    400068: Hallway52
+    400070: Hallway53
+    400072: Hallway54
+    400074: leaves
+    400076: Leavs:polySurface1
+    400078: pCube532
+    400080: pCylinder58
+    400082: Pile_of_Crap:polySurface1
+    400084: Plant_v2:polySurface1
+    400086: polySurface1
+    400088: polySurface1 1
+    400090: polySurface1 2
+    400092: polySurface17
+    400094: polySurface690
+    400096: polySurface783
+    400098: polySurface784
+    400100: pots3:polySurface1
+    400102: //RootNode
+    400104: table_Bench:polySurface1
+    400106: Treim_floorbalcomy1
+    2300000: Dining_table_v01:Dining_table_v01:polySurface148
+    2300002: Dining_table_v01:polySurface1
+    2300004: Dining_table_v01:polySurface1 1
+    2300006: Dining_table_v01:polySurface1 2
+    2300008: Dining_table_v01:polySurface1 3
+    2300010: Dining_table_v01:polySurface12
+    2300012: Dining_table_v01:polySurface13
+    2300014: Dining_table_v01:polySurface14
+    2300016: Dining_table_v01:polySurface17
+    2300018: Dining_table_v01:polySurface18
+    2300020: Dining_table_v01:polySurface19
+    2300022: Dining_table_v01:polySurface21
+    2300024: Dining_table_v01:polySurface22
+    2300026: Dining_table_v01:polySurface23
+    2300028: Fireplace:Fireplace:Fireplace:Fireplace:polySurface1
+    2300030: Fireplace:Fireplace:Fireplace:Fireplace:polySurface1 1
+    2300032: Fireplace:Fireplace:Fireplace:Fireplace:polySurface102
+    2300034: Fireplace:Fireplace:Fireplace:Fireplace:polySurface103
+    2300036: Fireplace:Fireplace:Fireplace:Fireplace:polySurface113
+    2300038: Fireplace:polySurface16
+    2300040: Fireplace:polySurface17
+    2300042: Fireplace:polySurface19
+    2300044: Fireplace:polySurface20
+    2300046: Fountian_high:polySurface1
+    2300048: Hallway52
+    2300050: Hallway53
+    2300052: Hallway54
+    2300054: leaves
+    2300056: Leavs:polySurface1
+    2300058: pCube532
+    2300060: pCylinder58
+    2300062: Pile_of_Crap:polySurface1
+    2300064: Plant_v2:polySurface1
+    2300066: polySurface1
+    2300068: polySurface1 1
+    2300070: polySurface1 2
+    2300072: polySurface17
+    2300074: polySurface690
+    2300076: polySurface783
+    2300078: polySurface784
+    2300080: table_Bench:polySurface1
+    2300082: Treim_floorbalcomy1
+    3300000: Dining_table_v01:Dining_table_v01:polySurface148
+    3300002: Dining_table_v01:polySurface1
+    3300004: Dining_table_v01:polySurface1 1
+    3300006: Dining_table_v01:polySurface1 2
+    3300008: Dining_table_v01:polySurface1 3
+    3300010: Dining_table_v01:polySurface12
+    3300012: Dining_table_v01:polySurface13
+    3300014: Dining_table_v01:polySurface14
+    3300016: Dining_table_v01:polySurface17
+    3300018: Dining_table_v01:polySurface18
+    3300020: Dining_table_v01:polySurface19
+    3300022: Dining_table_v01:polySurface21
+    3300024: Dining_table_v01:polySurface22
+    3300026: Dining_table_v01:polySurface23
+    3300028: Fireplace:Fireplace:Fireplace:Fireplace:polySurface1
+    3300030: Fireplace:Fireplace:Fireplace:Fireplace:polySurface1 1
+    3300032: Fireplace:Fireplace:Fireplace:Fireplace:polySurface102
+    3300034: Fireplace:Fireplace:Fireplace:Fireplace:polySurface103
+    3300036: Fireplace:Fireplace:Fireplace:Fireplace:polySurface113
+    3300038: Fireplace:polySurface16
+    3300040: Fireplace:polySurface17
+    3300042: Fireplace:polySurface19
+    3300044: Fireplace:polySurface20
+    3300046: Fountian_high:polySurface1
+    3300048: Hallway52
+    3300050: Hallway53
+    3300052: Hallway54
+    3300054: leaves
+    3300056: Leavs:polySurface1
+    3300058: pCube532
+    3300060: pCylinder58
+    3300062: Pile_of_Crap:polySurface1
+    3300064: Plant_v2:polySurface1
+    3300066: polySurface1
+    3300068: polySurface1 1
+    3300070: polySurface1 2
+    3300072: polySurface17
+    3300074: polySurface690
+    3300076: polySurface783
+    3300078: polySurface784
+    3300080: table_Bench:polySurface1
+    3300082: Treim_floorbalcomy1
+    4300000: Hallway52
+    4300002: Hallway53
+    4300004: Hallway54
+    4300006: Treim_floorbalcomy1
+    4300008: Fountian_high:polySurface1
+    4300010: polySurface1
+    4300012: Plant_v2:polySurface1
+    4300014: Fireplace:Fireplace:Fireplace:Fireplace:polySurface1
+    4300016: Fireplace:Fireplace:Fireplace:Fireplace:polySurface113
+    4300018: Dining_table_v01:polySurface1
+    4300020: Dining_table_v01:polySurface22
+    4300022: Fireplace:polySurface19
+    4300024: Fireplace:polySurface20
+    4300026: Fireplace:polySurface16
+    4300028: Fireplace:polySurface17
+    4300030: polySurface17
+    4300032: Dining_table_v01:polySurface12
+    4300034: Dining_table_v01:polySurface17
+    4300036: table_Bench:polySurface1
+    4300038: Fireplace:Fireplace:Fireplace:Fireplace:polySurface1
+    4300040: Fireplace:Fireplace:Fireplace:Fireplace:polySurface102
+    4300042: Fireplace:Fireplace:Fireplace:Fireplace:polySurface103
+    4300044: polySurface690
+    4300046: Pile_of_Crap:polySurface1
+    4300048: polySurface1
+    4300050: Dining_table_v01:polySurface1
+    4300052: Dining_table_v01:polySurface13
+    4300054: Dining_table_v01:polySurface14
+    4300056: Dining_table_v01:polySurface19
+    4300058: Dining_table_v01:polySurface23
+    4300060: polySurface1
+    4300062: Dining_table_v01:polySurface1
+    4300064: Leavs:polySurface1
+    4300066: Dining_table_v01:polySurface1
+    4300068: Dining_table_v01:polySurface18
+    4300070: leaves
+    4300072: Dining_table_v01:polySurface21
+    4300074: Dining_table_v01:Dining_table_v01:polySurface148
+    4300076: pCylinder58
+    4300078: pCube532
+    4300080: polySurface783
+    4300082: polySurface784
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

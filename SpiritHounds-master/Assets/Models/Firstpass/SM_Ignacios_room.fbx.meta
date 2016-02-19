@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 7b3bed3ce210902459a7bdd53aa0a714
+timeCreated: 1455519770
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Agnocio_phone:polySurface1
+    100002: Carpet_v01:polySurface1
+    100004: Crate_high:polySurface1
+    100006: Dining_table_v01:Dining_table_v01:polySurface144
+    100008: dresser:polySurface1
+    100010: Fireplace:Fireplace:Fireplace:Fireplace:polySurface13
+    100012: group116
+    100014: group72
+    100016: group80
+    100018: group83
+    100020: group84
+    100022: group85
+    100024: pCube509
+    100026: pCube510
+    100028: pCube511
+    100030: pCylinder53
+    100032: polySurface1
+    100034: polySurface1 1
+    100036: polySurface1 2
+    100038: polySurface700
+    100040: polySurface715
+    100042: polySurface717
+    100044: polySurface719
+    100046: pots3:polySurface1
+    100048: //RootNode
+    100050: Tub
+    400000: Agnocio_phone:polySurface1
+    400002: Carpet_v01:polySurface1
+    400004: Crate_high:polySurface1
+    400006: Dining_table_v01:Dining_table_v01:polySurface144
+    400008: dresser:polySurface1
+    400010: Fireplace:Fireplace:Fireplace:Fireplace:polySurface13
+    400012: group116
+    400014: group72
+    400016: group80
+    400018: group83
+    400020: group84
+    400022: group85
+    400024: pCube509
+    400026: pCube510
+    400028: pCube511
+    400030: pCylinder53
+    400032: polySurface1
+    400034: polySurface1 1
+    400036: polySurface1 2
+    400038: polySurface700
+    400040: polySurface715
+    400042: polySurface717
+    400044: polySurface719
+    400046: pots3:polySurface1
+    400048: //RootNode
+    400050: Tub
+    2300000: Agnocio_phone:polySurface1
+    2300002: Carpet_v01:polySurface1
+    2300004: Crate_high:polySurface1
+    2300006: Dining_table_v01:Dining_table_v01:polySurface144
+    2300008: dresser:polySurface1
+    2300010: Fireplace:Fireplace:Fireplace:Fireplace:polySurface13
+    2300012: pCube509
+    2300014: pCube510
+    2300016: pCube511
+    2300018: pCylinder53
+    2300020: polySurface1
+    2300022: polySurface1 1
+    2300024: polySurface1 2
+    2300026: polySurface700
+    2300028: polySurface715
+    2300030: polySurface717
+    2300032: polySurface719
+    2300034: Tub
+    3300000: Agnocio_phone:polySurface1
+    3300002: Carpet_v01:polySurface1
+    3300004: Crate_high:polySurface1
+    3300006: Dining_table_v01:Dining_table_v01:polySurface144
+    3300008: dresser:polySurface1
+    3300010: Fireplace:Fireplace:Fireplace:Fireplace:polySurface13
+    3300012: pCube509
+    3300014: pCube510
+    3300016: pCube511
+    3300018: pCylinder53
+    3300020: polySurface1
+    3300022: polySurface1 1
+    3300024: polySurface1 2
+    3300026: polySurface700
+    3300028: polySurface715
+    3300030: polySurface717
+    3300032: polySurface719
+    3300034: Tub
+    4300000: Fireplace:Fireplace:Fireplace:Fireplace:polySurface13
+    4300002: Carpet_v01:polySurface1
+    4300004: Agnocio_phone:polySurface1
+    4300006: polySurface1
+    4300008: dresser:polySurface1
+    4300010: polySurface1
+    4300012: Tub
+    4300014: polySurface1
+    4300016: Crate_high:polySurface1
+    4300018: polySurface700
+    4300020: pCube509
+    4300022: pCube510
+    4300024: pCube511
+    4300026: polySurface715
+    4300028: polySurface717
+    4300030: polySurface719
+    4300032: Dining_table_v01:Dining_table_v01:polySurface144
+    4300034: pCylinder53
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 506ddd744b390bb44bc9ce07b2897cad
+timeCreated: 1455519765
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Animal_stables23
+    100002: Animal_stables24
+    100004: Animal_stables25
+    100006: Animal_stables26
+    100008: Animal_stables27
+    100010: Animal_stables28
+    100012: Animal_stables29
+    100014: Animal_stables30
+    100016: Animal_stables31
+    100018: Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:pCube285
+    100020: Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:pCube261
+    100022: Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:pCube289
+    100024: Fireplace:Fireplace:Fireplace:Fireplace:pCube264
+    100026: Fireplace:Fireplace:Fireplace:Fireplace:pCube265
+    100028: Fireplace:Fireplace:Fireplace:Fireplace:pCube266
+    100030: Fireplace:Fireplace:Fireplace:Fireplace:pCube274
+    100032: Fireplace:Fireplace:Fireplace:Fireplace:pCube275
+    100034: Fireplace:Fireplace:Fireplace:Fireplace:pCube276
+    100036: Fireplace:Fireplace:Fireplace:Fireplace:pCube277
+    100038: Fireplace:Fireplace:Fireplace:Fireplace:pCube278
+    100040: Fireplace:Fireplace:Fireplace:Fireplace:pCube279
+    100042: Fireplace:Fireplace:Fireplace:Fireplace:pCube280
+    100044: Fireplace:Fireplace:Fireplace:Fireplace:pCube281
+    100046: Fireplace:Fireplace:Fireplace:Fireplace:pPlane1
+    100048: Fireplace:Fireplace:Fireplace:Fireplace:pPlane2
+    100050: Fireplace:Fireplace:Fireplace:Fireplace:pPlane3
+    100052: group86
+    100054: group87
+    100056: group88
+    100058: group89
+    100060: pCube189
+    100062: pCube456
+    100064: pCube457
+    100066: pCube458
+    100068: pCube459
+    100070: pCube460
+    100072: pCube461
+    100074: pCube462
+    100076: pCube462 1
+    100078: pCube462 2
+    100080: pCube462 3
+    100082: pCube463
+    100084: pCube463 1
+    100086: pCube463 2
+    100088: pCube463 3
+    100090: polySurface37
+    100092: polySurface45
+    100094: polySurface697
+    100096: polySurface699
+    100098: //RootNode
+    400000: Animal_stables23
+    400002: Animal_stables24
+    400004: Animal_stables25
+    400006: Animal_stables26
+    400008: Animal_stables27
+    400010: Animal_stables28
+    400012: Animal_stables29
+    400014: Animal_stables30
+    400016: Animal_stables31
+    400018: Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:pCube285
+    400020: Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:pCube261
+    400022: Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:pCube289
+    400024: Fireplace:Fireplace:Fireplace:Fireplace:pCube264
+    400026: Fireplace:Fireplace:Fireplace:Fireplace:pCube265
+    400028: Fireplace:Fireplace:Fireplace:Fireplace:pCube266
+    400030: Fireplace:Fireplace:Fireplace:Fireplace:pCube274
+    400032: Fireplace:Fireplace:Fireplace:Fireplace:pCube275
+    400034: Fireplace:Fireplace:Fireplace:Fireplace:pCube276
+    400036: Fireplace:Fireplace:Fireplace:Fireplace:pCube277
+    400038: Fireplace:Fireplace:Fireplace:Fireplace:pCube278
+    400040: Fireplace:Fireplace:Fireplace:Fireplace:pCube279
+    400042: Fireplace:Fireplace:Fireplace:Fireplace:pCube280
+    400044: Fireplace:Fireplace:Fireplace:Fireplace:pCube281
+    400046: Fireplace:Fireplace:Fireplace:Fireplace:pPlane1
+    400048: Fireplace:Fireplace:Fireplace:Fireplace:pPlane2
+    400050: Fireplace:Fireplace:Fireplace:Fireplace:pPlane3
+    400052: group86
+    400054: group87
+    400056: group88
+    400058: group89
+    400060: pCube189
+    400062: pCube456
+    400064: pCube457
+    400066: pCube458
+    400068: pCube459
+    400070: pCube460
+    400072: pCube461
+    400074: pCube462
+    400076: pCube462 1
+    400078: pCube462 2
+    400080: pCube462 3
+    400082: pCube463
+    400084: pCube463 1
+    400086: pCube463 2
+    400088: pCube463 3
+    400090: polySurface37
+    400092: polySurface45
+    400094: polySurface697
+    400096: polySurface699
+    400098: //RootNode
+    2300000: Animal_stables23
+    2300002: Animal_stables24
+    2300004: Animal_stables25
+    2300006: Animal_stables26
+    2300008: Animal_stables27
+    2300010: Animal_stables28
+    2300012: Animal_stables29
+    2300014: Animal_stables30
+    2300016: Animal_stables31
+    2300018: Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:pCube285
+    2300020: Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:pCube261
+    2300022: Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:pCube289
+    2300024: Fireplace:Fireplace:Fireplace:Fireplace:pCube264
+    2300026: Fireplace:Fireplace:Fireplace:Fireplace:pCube265
+    2300028: Fireplace:Fireplace:Fireplace:Fireplace:pCube266
+    2300030: Fireplace:Fireplace:Fireplace:Fireplace:pCube274
+    2300032: Fireplace:Fireplace:Fireplace:Fireplace:pCube275
+    2300034: Fireplace:Fireplace:Fireplace:Fireplace:pCube276
+    2300036: Fireplace:Fireplace:Fireplace:Fireplace:pCube277
+    2300038: Fireplace:Fireplace:Fireplace:Fireplace:pCube278
+    2300040: Fireplace:Fireplace:Fireplace:Fireplace:pCube279
+    2300042: Fireplace:Fireplace:Fireplace:Fireplace:pCube280
+    2300044: Fireplace:Fireplace:Fireplace:Fireplace:pCube281
+    2300046: Fireplace:Fireplace:Fireplace:Fireplace:pPlane1
+    2300048: Fireplace:Fireplace:Fireplace:Fireplace:pPlane2
+    2300050: Fireplace:Fireplace:Fireplace:Fireplace:pPlane3
+    2300052: pCube456
+    2300054: pCube457
+    2300056: pCube458
+    2300058: pCube459
+    2300060: pCube460
+    2300062: pCube461
+    2300064: pCube462
+    2300066: pCube462 1
+    2300068: pCube462 2
+    2300070: pCube462 3
+    2300072: pCube463
+    2300074: pCube463 1
+    2300076: pCube463 2
+    2300078: pCube463 3
+    2300080: polySurface37
+    2300082: polySurface45
+    2300084: polySurface697
+    2300086: polySurface699
+    3300000: Animal_stables23
+    3300002: Animal_stables24
+    3300004: Animal_stables25
+    3300006: Animal_stables26
+    3300008: Animal_stables27
+    3300010: Animal_stables28
+    3300012: Animal_stables29
+    3300014: Animal_stables30
+    3300016: Animal_stables31
+    3300018: Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:pCube285
+    3300020: Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:pCube261
+    3300022: Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:pCube289
+    3300024: Fireplace:Fireplace:Fireplace:Fireplace:pCube264
+    3300026: Fireplace:Fireplace:Fireplace:Fireplace:pCube265
+    3300028: Fireplace:Fireplace:Fireplace:Fireplace:pCube266
+    3300030: Fireplace:Fireplace:Fireplace:Fireplace:pCube274
+    3300032: Fireplace:Fireplace:Fireplace:Fireplace:pCube275
+    3300034: Fireplace:Fireplace:Fireplace:Fireplace:pCube276
+    3300036: Fireplace:Fireplace:Fireplace:Fireplace:pCube277
+    3300038: Fireplace:Fireplace:Fireplace:Fireplace:pCube278
+    3300040: Fireplace:Fireplace:Fireplace:Fireplace:pCube279
+    3300042: Fireplace:Fireplace:Fireplace:Fireplace:pCube280
+    3300044: Fireplace:Fireplace:Fireplace:Fireplace:pCube281
+    3300046: Fireplace:Fireplace:Fireplace:Fireplace:pPlane1
+    3300048: Fireplace:Fireplace:Fireplace:Fireplace:pPlane2
+    3300050: Fireplace:Fireplace:Fireplace:Fireplace:pPlane3
+    3300052: pCube456
+    3300054: pCube457
+    3300056: pCube458
+    3300058: pCube459
+    3300060: pCube460
+    3300062: pCube461
+    3300064: pCube462
+    3300066: pCube462 1
+    3300068: pCube462 2
+    3300070: pCube462 3
+    3300072: pCube463
+    3300074: pCube463 1
+    3300076: pCube463 2
+    3300078: pCube463 3
+    3300080: polySurface37
+    3300082: polySurface45
+    3300084: polySurface697
+    3300086: polySurface699
+    4300000: polySurface45
+    4300002: polySurface37
+    4300004: Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:pCube261
+    4300006: Fireplace:Fireplace:Fireplace:Fireplace:pCube264
+    4300008: Fireplace:Fireplace:Fireplace:Fireplace:pCube265
+    4300010: Fireplace:Fireplace:Fireplace:Fireplace:pCube266
+    4300012: Fireplace:Fireplace:Fireplace:Fireplace:pCube274
+    4300014: Fireplace:Fireplace:Fireplace:Fireplace:pCube275
+    4300016: Fireplace:Fireplace:Fireplace:Fireplace:pCube276
+    4300018: Fireplace:Fireplace:Fireplace:Fireplace:pCube277
+    4300020: Fireplace:Fireplace:Fireplace:Fireplace:pCube278
+    4300022: Fireplace:Fireplace:Fireplace:Fireplace:pCube279
+    4300024: Fireplace:Fireplace:Fireplace:Fireplace:pCube280
+    4300026: Fireplace:Fireplace:Fireplace:Fireplace:pCube281
+    4300028: Fireplace:Fireplace:Fireplace:Fireplace:pPlane1
+    4300030: Fireplace:Fireplace:Fireplace:Fireplace:pPlane2
+    4300032: Fireplace:Fireplace:Fireplace:Fireplace:pPlane3
+    4300034: Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:pCube289
+    4300036: Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:Fireplace:pCube285
+    4300038: pCube456
+    4300040: pCube457
+    4300042: pCube458
+    4300044: pCube459
+    4300046: pCube460
+    4300048: pCube461
+    4300050: polySurface697
+    4300052: pCube462
+    4300054: pCube463
+    4300056: pCube462
+    4300058: pCube463
+    4300060: pCube462
+    4300062: pCube463
+    4300064: pCube462
+    4300066: pCube463
+    4300068: polySurface699
+    4300070: Animal_stables23
+    4300072: Animal_stables24
+    4300074: Animal_stables25
+    4300076: Animal_stables26
+    4300078: Animal_stables27
+    4300080: Animal_stables28
+    4300082: Animal_stables29
+    4300084: Animal_stables30
+    4300086: Animal_stables31
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

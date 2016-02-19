@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 5e6eb7c9f264c3f48924c6b7a6a24ed9
+timeCreated: 1455519767
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Animal_stables6
+    100002: group11
+    100004: group12
+    100006: group14
+    100008: group15
+    100010: group16
+    100012: group20_pCylinder27
+    100014: Roof
+    100016: Roof1
+    100018: Roof2
+    100020: roof2ndFloor8
+    100022: Roof3
+    100024: Roof4
+    100026: Roof_tiles
+    100028: Roof_tiles2
+    100030: Roof_tiles3
+    100032: Roof_tiles4
+    100034: Roof_tiles6
+    100036: Roof_tiles7
+    100038: Roof_tiles8
+    100040: Roof_tiles9
+    100042: //RootNode
+    100044: Underbeam12
+    100046: Underbeam20
+    100048: walls79
+    100050: walls80
+    100052: walls81
+    100054: walls82
+    400000: Animal_stables6
+    400002: group11
+    400004: group12
+    400006: group14
+    400008: group15
+    400010: group16
+    400012: group20_pCylinder27
+    400014: Roof
+    400016: Roof1
+    400018: Roof2
+    400020: roof2ndFloor8
+    400022: Roof3
+    400024: Roof4
+    400026: Roof_tiles
+    400028: Roof_tiles2
+    400030: Roof_tiles3
+    400032: Roof_tiles4
+    400034: Roof_tiles6
+    400036: Roof_tiles7
+    400038: Roof_tiles8
+    400040: Roof_tiles9
+    400042: //RootNode
+    400044: Underbeam12
+    400046: Underbeam20
+    400048: walls79
+    400050: walls80
+    400052: walls81
+    400054: walls82
+    2300000: Animal_stables6
+    2300002: group20_pCylinder27
+    2300004: Roof
+    2300006: Roof1
+    2300008: Roof2
+    2300010: roof2ndFloor8
+    2300012: Roof3
+    2300014: Roof4
+    2300016: Roof_tiles
+    2300018: Roof_tiles2
+    2300020: Roof_tiles3
+    2300022: Roof_tiles4
+    2300024: Roof_tiles6
+    2300026: Roof_tiles7
+    2300028: Roof_tiles8
+    2300030: Roof_tiles9
+    2300032: Underbeam12
+    2300034: Underbeam20
+    2300036: walls79
+    2300038: walls80
+    2300040: walls81
+    2300042: walls82
+    3300000: Animal_stables6
+    3300002: group20_pCylinder27
+    3300004: Roof
+    3300006: Roof1
+    3300008: Roof2
+    3300010: roof2ndFloor8
+    3300012: Roof3
+    3300014: Roof4
+    3300016: Roof_tiles
+    3300018: Roof_tiles2
+    3300020: Roof_tiles3
+    3300022: Roof_tiles4
+    3300024: Roof_tiles6
+    3300026: Roof_tiles7
+    3300028: Roof_tiles8
+    3300030: Roof_tiles9
+    3300032: Underbeam12
+    3300034: Underbeam20
+    3300036: walls79
+    3300038: walls80
+    3300040: walls81
+    3300042: walls82
+    4300000: walls79
+    4300002: walls80
+    4300004: walls81
+    4300006: walls82
+    4300008: roof2ndFloor8
+    4300010: Animal_stables6
+    4300012: Roof
+    4300014: Underbeam12
+    4300016: Roof_tiles
+    4300018: Roof_tiles2
+    4300020: Roof_tiles3
+    4300022: Roof_tiles4
+    4300024: Roof_tiles6
+    4300026: Roof_tiles7
+    4300028: Roof_tiles8
+    4300030: Roof_tiles9
+    4300032: group20_pCylinder27
+    4300034: Roof1
+    4300036: Roof3
+    4300038: Roof2
+    4300040: Roof4
+    4300042: Underbeam20
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

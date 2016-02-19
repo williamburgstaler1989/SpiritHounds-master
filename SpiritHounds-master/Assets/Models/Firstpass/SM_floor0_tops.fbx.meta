@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: b45f3af9a8781a54b80b41f32e898a67
+timeCreated: 1455519778
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Floor_kitchen:polySurface1
+    100002: group107
+    100004: group11
+    100006: group12
+    100008: group14
+    100010: group15
+    100012: group16
+    100014: Hallway21
+    100016: Hallway23
+    100018: Hallway24
+    100020: Hallway25
+    100022: Hallway27
+    100024: Hallway29
+    100026: Hallway34
+    100028: Hallway35
+    100030: Hallway36
+    100032: Hallway37
+    100034: Hallway43
+    100036: Hallway46
+    100038: polySurface17
+    100040: polySurface20
+    100042: polySurface26
+    100044: Roof_floor
+    100046: Roof_floor1
+    100048: //RootNode
+    400000: Floor_kitchen:polySurface1
+    400002: group107
+    400004: group11
+    400006: group12
+    400008: group14
+    400010: group15
+    400012: group16
+    400014: Hallway21
+    400016: Hallway23
+    400018: Hallway24
+    400020: Hallway25
+    400022: Hallway27
+    400024: Hallway29
+    400026: Hallway34
+    400028: Hallway35
+    400030: Hallway36
+    400032: Hallway37
+    400034: Hallway43
+    400036: Hallway46
+    400038: polySurface17
+    400040: polySurface20
+    400042: polySurface26
+    400044: Roof_floor
+    400046: Roof_floor1
+    400048: //RootNode
+    2300000: Floor_kitchen:polySurface1
+    2300002: Hallway21
+    2300004: Hallway23
+    2300006: Hallway24
+    2300008: Hallway25
+    2300010: Hallway27
+    2300012: Hallway29
+    2300014: Hallway34
+    2300016: Hallway35
+    2300018: Hallway36
+    2300020: Hallway37
+    2300022: Hallway43
+    2300024: Hallway46
+    2300026: polySurface17
+    2300028: polySurface26
+    2300030: Roof_floor
+    3300000: Floor_kitchen:polySurface1
+    3300002: Hallway21
+    3300004: Hallway23
+    3300006: Hallway24
+    3300008: Hallway25
+    3300010: Hallway27
+    3300012: Hallway29
+    3300014: Hallway34
+    3300016: Hallway35
+    3300018: Hallway36
+    3300020: Hallway37
+    3300022: Hallway43
+    3300024: Hallway46
+    3300026: polySurface17
+    3300028: polySurface26
+    3300030: Roof_floor
+    4300000: Roof_floor
+    4300002: polySurface17
+    4300004: polySurface26
+    4300006: Hallway21
+    4300008: Hallway23
+    4300010: Hallway24
+    4300012: Hallway25
+    4300014: Hallway27
+    4300016: Hallway29
+    4300018: Hallway34
+    4300020: Hallway35
+    4300022: Hallway36
+    4300024: Hallway37
+    4300026: Hallway43
+    4300028: Hallway46
+    4300030: Floor_kitchen:polySurface1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

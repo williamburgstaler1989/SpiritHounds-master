@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: f12545dd5d2906e428a7c5a80a4c011b
+timeCreated: 1455519797
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Deaadpotplant:polySurface1
+    100002: Dining_table_v01:Dining_table_v01:polySurface149
+    100004: Dining_table_v01:Dining_table_v01:polySurface150
+    100006: Fireplace:Fireplace:Fireplace:Fireplace:polySurface100
+    100008: Fireplace:Fireplace:Fireplace:Fireplace:polySurface101
+    100010: Fireplace:Fireplace:Fireplace:Fireplace:polySurface104
+    100012: Fireplace:Fireplace:Fireplace:Fireplace:polySurface105
+    100014: Fireplace:Fireplace:Fireplace:Fireplace:polySurface114
+    100016: Fireplace:Fireplace:Fireplace:Fireplace:polySurface16
+    100018: Fireplace:Fireplace:Fireplace:Fireplace:polySurface17
+    100020: Fireplace:Fireplace:Fireplace:Fireplace:polySurface20
+    100022: group69
+    100024: group72
+    100026: group73
+    100028: group98
+    100030: polySurface150
+    100032: polySurface727
+    100034: pots3:polySurface1
+    100036: //RootNode
+    400000: Deaadpotplant:polySurface1
+    400002: Dining_table_v01:Dining_table_v01:polySurface149
+    400004: Dining_table_v01:Dining_table_v01:polySurface150
+    400006: Fireplace:Fireplace:Fireplace:Fireplace:polySurface100
+    400008: Fireplace:Fireplace:Fireplace:Fireplace:polySurface101
+    400010: Fireplace:Fireplace:Fireplace:Fireplace:polySurface104
+    400012: Fireplace:Fireplace:Fireplace:Fireplace:polySurface105
+    400014: Fireplace:Fireplace:Fireplace:Fireplace:polySurface114
+    400016: Fireplace:Fireplace:Fireplace:Fireplace:polySurface16
+    400018: Fireplace:Fireplace:Fireplace:Fireplace:polySurface17
+    400020: Fireplace:Fireplace:Fireplace:Fireplace:polySurface20
+    400022: group69
+    400024: group72
+    400026: group73
+    400028: group98
+    400030: polySurface150
+    400032: polySurface727
+    400034: pots3:polySurface1
+    400036: //RootNode
+    2300000: Deaadpotplant:polySurface1
+    2300002: Dining_table_v01:Dining_table_v01:polySurface149
+    2300004: Dining_table_v01:Dining_table_v01:polySurface150
+    2300006: Fireplace:Fireplace:Fireplace:Fireplace:polySurface100
+    2300008: Fireplace:Fireplace:Fireplace:Fireplace:polySurface101
+    2300010: Fireplace:Fireplace:Fireplace:Fireplace:polySurface104
+    2300012: Fireplace:Fireplace:Fireplace:Fireplace:polySurface105
+    2300014: Fireplace:Fireplace:Fireplace:Fireplace:polySurface114
+    2300016: Fireplace:Fireplace:Fireplace:Fireplace:polySurface16
+    2300018: Fireplace:Fireplace:Fireplace:Fireplace:polySurface17
+    2300020: Fireplace:Fireplace:Fireplace:Fireplace:polySurface20
+    2300022: polySurface150
+    2300024: polySurface727
+    3300000: Deaadpotplant:polySurface1
+    3300002: Dining_table_v01:Dining_table_v01:polySurface149
+    3300004: Dining_table_v01:Dining_table_v01:polySurface150
+    3300006: Fireplace:Fireplace:Fireplace:Fireplace:polySurface100
+    3300008: Fireplace:Fireplace:Fireplace:Fireplace:polySurface101
+    3300010: Fireplace:Fireplace:Fireplace:Fireplace:polySurface104
+    3300012: Fireplace:Fireplace:Fireplace:Fireplace:polySurface105
+    3300014: Fireplace:Fireplace:Fireplace:Fireplace:polySurface114
+    3300016: Fireplace:Fireplace:Fireplace:Fireplace:polySurface16
+    3300018: Fireplace:Fireplace:Fireplace:Fireplace:polySurface17
+    3300020: Fireplace:Fireplace:Fireplace:Fireplace:polySurface20
+    3300022: polySurface150
+    3300024: polySurface727
+    4300000: Fireplace:Fireplace:Fireplace:Fireplace:polySurface20
+    4300002: Fireplace:Fireplace:Fireplace:Fireplace:polySurface114
+    4300004: Fireplace:Fireplace:Fireplace:Fireplace:polySurface17
+    4300006: Fireplace:Fireplace:Fireplace:Fireplace:polySurface16
+    4300008: Fireplace:Fireplace:Fireplace:Fireplace:polySurface100
+    4300010: Fireplace:Fireplace:Fireplace:Fireplace:polySurface101
+    4300012: Fireplace:Fireplace:Fireplace:Fireplace:polySurface104
+    4300014: Fireplace:Fireplace:Fireplace:Fireplace:polySurface105
+    4300016: Deaadpotplant:polySurface1
+    4300018: polySurface727
+    4300020: Dining_table_v01:Dining_table_v01:polySurface149
+    4300022: Dining_table_v01:Dining_table_v01:polySurface150
+    4300024: polySurface150
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

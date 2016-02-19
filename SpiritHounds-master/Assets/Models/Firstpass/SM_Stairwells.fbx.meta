@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 1a8f193d56185ca48a332fc462ffe093
+timeCreated: 1455519765
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dining_table_v01:Dining_table_v01:left1
+    100002: Dining_table_v01:Dining_table_v01:left2
+    100004: group11
+    100006: group12
+    100008: group14
+    100010: group15
+    100012: group16
+    100014: left2
+    100016: left3
+    100018: //RootNode
+    100020: stairHall10
+    100022: stairHall9
+    100024: walls57
+    100026: walls58
+    100028: walls75
+    100030: walls77
+    400000: Dining_table_v01:Dining_table_v01:left1
+    400002: Dining_table_v01:Dining_table_v01:left2
+    400004: group11
+    400006: group12
+    400008: group14
+    400010: group15
+    400012: group16
+    400014: left2
+    400016: left3
+    400018: //RootNode
+    400020: stairHall10
+    400022: stairHall9
+    400024: walls57
+    400026: walls58
+    400028: walls75
+    400030: walls77
+    2300000: Dining_table_v01:Dining_table_v01:left1
+    2300002: Dining_table_v01:Dining_table_v01:left2
+    2300004: left2
+    2300006: left3
+    2300008: stairHall10
+    2300010: stairHall9
+    2300012: walls57
+    2300014: walls58
+    2300016: walls75
+    2300018: walls77
+    3300000: Dining_table_v01:Dining_table_v01:left1
+    3300002: Dining_table_v01:Dining_table_v01:left2
+    3300004: left2
+    3300006: left3
+    3300008: stairHall10
+    3300010: stairHall9
+    3300012: walls57
+    3300014: walls58
+    3300016: walls75
+    3300018: walls77
+    4300000: walls75
+    4300002: walls77
+    4300004: walls57
+    4300006: walls58
+    4300008: stairHall9
+    4300010: stairHall10
+    4300012: Dining_table_v01:Dining_table_v01:left1
+    4300014: Dining_table_v01:Dining_table_v01:left2
+    4300016: left2
+    4300018: left3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

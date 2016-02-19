@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 41c59e23b2c4a6a46aa6e401b19ba916
+timeCreated: 1455519765
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group107
+    100002: group11
+    100004: group12
+    100006: group14
+    100008: group15
+    100010: group16
+    100012: Hallway26
+    100014: Hallway28
+    100016: Hallway30
+    100018: Hallway31
+    100020: Hallway32
+    100022: Hallway33
+    100024: Hallway38
+    100026: Ignacios_Room
+    100028: polySurface1
+    100030: polySurface15
+    100032: polySurface20
+    100034: polySurface29
+    100036: polySurface786
+    100038: Roof_floor1
+    100040: //RootNode
+    100042: Treim_floorbalcomy
+    100044: walls91
+    400000: group107
+    400002: group11
+    400004: group12
+    400006: group14
+    400008: group15
+    400010: group16
+    400012: Hallway26
+    400014: Hallway28
+    400016: Hallway30
+    400018: Hallway31
+    400020: Hallway32
+    400022: Hallway33
+    400024: Hallway38
+    400026: Ignacios_Room
+    400028: polySurface1
+    400030: polySurface15
+    400032: polySurface20
+    400034: polySurface29
+    400036: polySurface786
+    400038: Roof_floor1
+    400040: //RootNode
+    400042: Treim_floorbalcomy
+    400044: walls91
+    2300000: Hallway26
+    2300002: Hallway28
+    2300004: Hallway30
+    2300006: Hallway31
+    2300008: Hallway32
+    2300010: Hallway33
+    2300012: Hallway38
+    2300014: Ignacios_Room
+    2300016: polySurface1
+    2300018: polySurface15
+    2300020: polySurface29
+    2300022: polySurface786
+    2300024: Treim_floorbalcomy
+    3300000: Hallway26
+    3300002: Hallway28
+    3300004: Hallway30
+    3300006: Hallway31
+    3300008: Hallway32
+    3300010: Hallway33
+    3300012: Hallway38
+    3300014: Ignacios_Room
+    3300016: polySurface1
+    3300018: polySurface15
+    3300020: polySurface29
+    3300022: polySurface786
+    3300024: Treim_floorbalcomy
+    4300000: polySurface15
+    4300002: Ignacios_Room
+    4300004: polySurface29
+    4300006: Hallway26
+    4300008: Hallway28
+    4300010: Hallway30
+    4300012: Hallway31
+    4300014: Hallway32
+    4300016: Hallway33
+    4300018: Hallway38
+    4300020: Treim_floorbalcomy
+    4300022: polySurface1
+    4300024: polySurface786
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
